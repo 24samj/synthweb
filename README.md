@@ -78,3 +78,4 @@ This is a simple React Native app that displays a list of users and their detail
 -   If you encounter any issues, make sure your emulator is properly set up and running.
 # synthweb
 # synthweb
+# synthweb
