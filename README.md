@@ -1,4 +1,3 @@
-````markdown
 # My React Native App
 
 This is a simple React Native app that displays a list of users and their details. Follow the instructions below to set up and run the app.
@@ -10,6 +9,7 @@ This is a simple React Native app that displays a list of users and their detail
     ```sh
     npm install -g react-native-cli
     ```
+
 ````
 
 -   Make sure you have an Android or iOS emulator running. For Android, you can use Android Studio. For iOS, you can use Xcode.
@@ -74,3 +74,4 @@ This is a simple React Native app that displays a list of users and their detail
 
 -   Ensure that the backend server is running before starting the frontend app to fetch the user data correctly.
 -   If you encounter any issues, make sure your emulator is properly set up and running.
+````
