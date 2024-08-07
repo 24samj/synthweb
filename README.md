@@ -1,5 +1,3 @@
-Sure, here is the markdown content:
-
 ````markdown
 # My React Native App
 
