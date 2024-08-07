@@ -6,11 +6,10 @@ This is a simple React Native app that displays a list of users and their detail
 
 -   Ensure you have Node.js installed. You can download it from [nodejs.org](https://nodejs.org/).
 -   Ensure you have React Native CLI installed. You can install it by running:
+
     ```sh
     npm install -g react-native-cli
     ```
-
-````
 
 -   Make sure you have an Android or iOS emulator running. For Android, you can use Android Studio. For iOS, you can use Xcode.
 
@@ -74,4 +73,7 @@ This is a simple React Native app that displays a list of users and their detail
 
 -   Ensure that the backend server is running before starting the frontend app to fetch the user data correctly.
 -   If you encounter any issues, make sure your emulator is properly set up and running.
-````
+
+```
+
+```
