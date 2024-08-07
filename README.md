@@ -77,3 +77,4 @@ This is a simple React Native app that displays a list of users and their detail
 -   Ensure that the backend server is running before starting the frontend app to fetch the user data correctly.
 -   If you encounter any issues, make sure your emulator is properly set up and running.
 # synthweb
+# synthweb
